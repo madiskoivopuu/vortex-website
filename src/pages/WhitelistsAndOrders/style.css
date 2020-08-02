@@ -1,0 +1,11 @@
+.tabbutton {
+	color: #FFFFFF;
+	background-color: #343a40;
+}
+.tabbutton:hover {
+	color: #FFFFFF;
+}
+
+.nav-link.active {
+	background-color: #585d63 !important;
+}
